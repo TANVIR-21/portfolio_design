@@ -41,7 +41,7 @@
 
 .home{
     width: 100%;
-    height: 85vh;
+    height: 90vh;
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -60,7 +60,7 @@
     background-size: 600%;
     z-index: -1;
     width: calc(100% + 0px);
-    height: calc(84% + 4px);
+    height: calc(89% + 4px);
     filter: blur(7px);
 }
 
